@@ -18,7 +18,7 @@
 
 ## ダウンロード
 
-ダウンロード： **_[Chrome Web Store](https://chrome.google.com/webstore/detail/among-us-discord-overlay/oommbconacammknogfinbibmnohcalpj)_**
+ダウンロード： **_[Chrome Web Store](https://chrome.google.com/webstore/detail/among-us-discord-overlay/efkcelgndjkicldomphfopbdccoofceg?hl=ja&authuser=3)_**
 
 ## 使用手順
 
