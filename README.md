@@ -53,11 +53,6 @@ Access streamkit link from [Discord Streamkit Overlay](https://streamkit.discord
 
 - [MIT](https://github.com/Naoya79/Among-Us-Discord-Overlay/blob/main/LICENSE)
 
-## Author
-
-- [Github](https://github.com/Naoya79)
-- [Twitter](https://twitter.com/NoyExe)
-
 ## Acknowledgments
 
 - Very useful tool - [Discord Streamkit Overlay](https://streamkit.discord.com/overlay)
